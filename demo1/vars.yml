@@ -1,0 +1,5 @@
+# Use a unique but recognizable cluster_id here. A recommended pattern
+# is to combine human-readable and a UUID text. Like demo-3DE0DDD1-F9D4-4DE0-8C55-9AF46701C091
+cluster_id: changeme-97DE3FBE-BA66-4968-9D9E-D5A65255963F
+
+some_name: World
